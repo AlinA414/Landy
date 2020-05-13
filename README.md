@@ -1,6 +1,6 @@
 ___
 
-# SHOPPING LIST
+# LANDY
 
 Result: https://AlinA414.github.io/Landy/
 
